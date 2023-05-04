@@ -2,3 +2,8 @@ alves:
   client:
     address:
       url: http://locahost:8082/addresses
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/hexagonal
