@@ -1,0 +1,4 @@
+alves:
+  client:
+    address:
+      url: http://locahost:8082/addresses
